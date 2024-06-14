@@ -8,6 +8,6 @@ function sendEmail() {
     }
 
     // Initiate EmailJS
-    emailjs.send("service_1rd1tfj", "template_nnuvaxt", params).then(alert("Your message has been sent. Thank you!"))
+    emailjs.send("service_b4xe9ih", "template_nnuvaxt", params).then(alert("Your message has been sent. Thank you!"))
 
 }
