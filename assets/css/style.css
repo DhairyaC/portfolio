@@ -717,6 +717,14 @@ section {
   border-bottom: 1px solid #eee;
 }
 
+.portfolio-details .portfolio-description h5 {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
+
 .portfolio-details .portfolio-description ul {
   list-style: none;
   padding: 0;
